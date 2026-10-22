@@ -10,6 +10,7 @@ grpcio==1.84.0
 h5py==3.15.1
 idna==3.20
 joblib==1.6.0
+keras==3.15.1
 keras-nightly==3.16.0.dev2026102104
 libclang==18.1.1
 markdown-it-py==4.2.0
@@ -27,6 +28,7 @@ Pygments==2.21.0
 python-dateutil==2.9.0.post0
 requests==2.34.2
 rich==15.0.0
+scikeras==0.13.0
 scikit-learn==1.9.1
 scipy==1.18.1
 six==1.17.0
